@@ -33,6 +33,12 @@ Label each step:
 <SteppedProgressBar labels={['first', 'second', 'third', 'fourth']} />
 ```
 
+Use the .less file:
+
+```less
+@import "node_modules/patchkit-stepped-progress-bar/styles.less"
+```
+
 ## License
 
 GPL 3
