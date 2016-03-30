@@ -2,6 +2,8 @@
 
 Component from [PatchKit](https://github.com/ssbc/patchkit).
 
+![screenshot](screenshot.png)
+
 ## Usage
 
 ```jsx
