@@ -1,6 +1,6 @@
 {
   "name": "patchkit-stepped-progress-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React UI component for a progress bar with multiple steps",
   "main": "index.jsx",
   "dependencies": {
