@@ -1,0 +1,30 @@
+{
+  "name": "patchkit-stepped-progress-bar",
+  "version": "1.0.0",
+  "description": "React UI component for a progress bar with multiple steps",
+  "main": "index.jsx",
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "react": "^0.14.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssbc/patchkit-stepped-progress-bar.git"
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "component",
+    "progress",
+    "bar"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ssbc/patchkit-stepped-progress-bar/issues"
+  },
+  "homepage": "https://github.com/ssbc/patchkit-stepped-progress-bar#readme"
+}
